@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#nav-item1 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#nav-item2 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#nav-item3 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#nav-item4 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.nav-logo-img {
+    height: 70px;
+    width: 80px;
+}
+
+.banner-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-head {
+    font-family: Roboto;
+    font-size: 35px;
+    color: white;
+    font-weight: 300;
+}
+
+.banner-para {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #f5f7fa;
+    font-weight: 300;
+}
+
+.banner-button {
+    height: 50px;
+    width: 150px;
+    background-color: #d0b200;
+    color: #ffffff;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.banner-button2 {
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    color: #d0b200;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #d0b200;
+}
+
+.wcu-back {
+    background-color: #f9fbfe;
+    text-align: center;
+
+}
+
+.wcu-head {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+.wcu-para {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.wcu-card1 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    border-style: solid;
+    border-color: #e5eaf4;
+    border-width: 2px;
+}
+
+.card1-img {
+    height: 100px;
+    width: 100px;
+}
+
+.wcu-card-head {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.offers {
+    color: #323f4b;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.explore-menu {
+    background-color: white;
+
+}
+
+.explore-menu-head {
+    font-family: Roboto;
+    font-size: 35px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.explore-card-img {
+    border-radius: 16px;
+}
+
+.main-item-name-nonveg {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: 500;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.menu-link {
+    color: #d0b200;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.menu-card-setting {
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#a58d00, #d0b200);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-head {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.all-icon-container {
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    padding-top: 23px;
+    padding-right: 16px;
+    padding-left: 23px;
+    padding-bottom: 16px;
+    margin: 15px;
+    border-radius: 40px;
+}
+
+.footer-img {
+    height: 60px;
+    width: 70px;
+}
+
+.footer-head {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    color: #959ead;
+}
+
+.footer-para {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #959ead;
+}
+
+.footer-section-container {
+    background-color: #0d2436;
+}
+
+.thanking-section-model-name {
+    color: #d0b200;
+    font-weight: 800;
+}
